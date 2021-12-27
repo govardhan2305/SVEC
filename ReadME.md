@@ -1,6 +1,6 @@
 ﻿### front end Technologies
 
-+vcs (Sourcve code mangement)
++ vcs (Sourcve code mangement)
 	- Distributed VCS
 		- Git,Mercurial
 	- Remote (Central) VCS
