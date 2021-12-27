@@ -7,6 +7,16 @@
 		- Github
 ### back end technologies
 
+### Git
+ - git init
+ - git add filename
+ - git add .
+ - git status
+ - git config --global user.name "email-id"
+ - git commit -m "message"
+ - git remote add origin(link)
+ - git push origin main
+
 ### html
 - Hyper Text Markup Language
 - semantic elements
