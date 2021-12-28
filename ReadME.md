@@ -48,7 +48,7 @@
  - [flaticon](https://www.flaticon.com/)
  - [colorcode](https://htmlcolorcodes.com/)
  - [contrastchecker](https://webaim.org/resources/contrastchecker/)
- 
+ - [SVG Icons]()
  Task :
 =====
  - audio
@@ -73,6 +73,7 @@ selector{
 
 ### selectors
 + Simple selectors
+	- universal selector(*)
 	- by element name
 	- Grouping selector(,)
 	- class selector
@@ -85,6 +86,14 @@ selector{
 + Pseudo class selector
 + Pseudo element selector
 + Attribute selector
-
+### box model
++ margin
++ border
++ padding 
+	- padding :10px(for all adjacent sides)
+	- padding :10px 30px(10px for top&bottom and 30px for lft and rght)
+	
++ Width
++ 1rem:16px
 
 
