@@ -44,12 +44,8 @@
 	- legend
 	- sup
 	- sub
-### reference links
- - [flaticon](https://www.flaticon.com/)
- - [colorcode](https://htmlcolorcodes.com/)
- - [contrastchecker](https://webaim.org/resources/contrastchecker/)
- - [SVG Icons]()
- Task :
+
+### Task :
 =====
  - audio
  - video
@@ -58,6 +54,10 @@
  - datalist
  - meter
  - select
+ ### task2 :
+  - Index.html
+  - register.html
+  - login.html
 
  ### css
  - Cascading Style Sheets
@@ -95,5 +95,27 @@ selector{
 	
 + Width
 + 1rem:16px
+### flex-box
+ + display
+  - flex
+	- flex wrap
+	- justify-content
+	- flex direction
+	- flex flow
+ + position
+	- static
+	- relative
+	- absolute
+	- fixed
+	- sticky
+ + align content
+ + align-items
+ + align-self
 
+
+### reference links
+ - [flaticon](https://www.flaticon.com/)
+ - [colorcode](https://htmlcolorcodes.com/)
+ - [contrastchecker](https://webaim.org/resources/contrastchecker/)
+ - [SVG Icons](https://freesvg.org/)
 
