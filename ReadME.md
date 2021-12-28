@@ -46,4 +46,45 @@
 	- sub
 ### reference links
  - [flaticon](https://www.flaticon.com/)
- - 
+ - [colorcode](https://htmlcolorcodes.com/)
+ - [contrastchecker](https://webaim.org/resources/contrastchecker/)
+ 
+ Task :
+=====
+ - audio
+ - video
+ - canvas
+ - progress
+ - datalist
+ - meter
+ - select
+
+ ### css
+ - Cascading Style Sheets
+ - Inline css
+ - internal css
+ - external css
+
++ Syntax for css
+...
+selector{
+	css properties
+}
+
+### selectors
++ Simple selectors
+	- by element name
+	- Grouping selector(,)
+	- class selector
+	- id selector
++ combinators
+	+ Descendant selector ( )
+	+ child selector (>)
+	+ Adjacent sibiling selector (+)
+	+ General  Sibiling selector (~)
++ Pseudo class selector
++ Pseudo element selector
++ Attribute selector
+
+
+
