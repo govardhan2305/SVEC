@@ -178,6 +178,14 @@ Task3 :
 	- backgrounds(bg-secondary)
 	- alerts (alert alert-primary)
 
++ Grid system
+	- col-sm-12
+	- sm (small devices)
+	- md (medium devices)
+	- lg (large devices)
+	- xl (Extralarge devices)
+
+
 ### reference links
  - [flaticon](https://www.flaticon.com/)
  - [colorcode](https://htmlcolorcodes.com/)
