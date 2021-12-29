@@ -111,7 +111,72 @@ selector{
  + align content
  + align-items
  + align-self
+ ### Media queries
+  - Extra small devices (Mobiles)
+	- max-width:600px
+  - Small Devices(large phones)
+	- min-width:600px
+  - Medium Devices(small laptops)
+	- min-width:768px
+  - Large Devices(desktops)
+    - min-width:992px
+  - Extra large Devices()
+	- min-width:1200px
 
+  ...
+  @media only screen(min-width:320px)and (max-width:500px)
+  {
+	  css code
+  }...
+### BootStrap 4.6
+- It is a Css Framework
+
+Task3 :
+=====
+	- Navbar with Responsive
+
+- module  (collections of functions and classess)
+- package (collections of modules)
+- library (Collection of packages)
+- Frameworks (collections of libraries)
+	+ module ----> package --->  Library --> Framework
+	
++ Types of Modes
+	- offline
+	- online
+		- CDN links
+
++ background colur -bg
++ text-white
++ margin in bootstrap(m-*(0-5))
+	- 0 --> 0rem
+	- 1 --> 0.25rem(4px)
+	- 2 --> 0.5rem(8px)
+	- 3 --> 1rem(16px)
+	- 4 --> 1.5rem(24px)
+	- 5 --> 3rem(48px)
+	- ml-8  (margin left)
+	- mt (margin top)
+	- mb (margin bottom) 
+	- mr (margin right)
+
++ padding (paddin-left --> pl-5)
++ colors
+ - primary
+ - secondary
+ - info
+ - success
+ - warning
+ - danger
+ - light
+ - dark
+ - white
+ 
++ We can use color classses for
+	- Buttons(btn btn-primary)
+	- text(text-white)
+	- backgrounds(bg-secondary)
+	- alerts (alert alert-primary)
 
 ### reference links
  - [flaticon](https://www.flaticon.com/)
