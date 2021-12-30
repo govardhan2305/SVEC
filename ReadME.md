@@ -185,6 +185,94 @@ Task3 :
 	- lg (large devices)
 	- xl (Extralarge devices)
 
+### JavaScript
+
++  In 1995 'Brenden Eich' introduces Javascript (es-262)
++ JavaScript loosely touple and dyanmic language
++ it is a text based programming language and we can run client-side and server-side for dyanmic web applications
+- ECMA-Script (ES-60)
+	- let & const
+	- map ()
+	- arrow function
+	- classes
+
++ Datatypes
+  - Number
+  - Bigint (2^53-1)
+  - String
+  - Boolean
+  - Undefined
+  - null
+  - object*
+  - array*
+
+
++ Variables 
+	- var,let &const
+	- Scope
+	  - function level ---> var
+	  - block level --> let & const
+
+	 
+	- Redefine
+	- Redclare
++ 'typeof()'
++ object
+
+...
+{
+	name:"employe"
+}
++ to generate notifications
+ - alert
+ - prompt (to take input from the user )
+ - confirm
+
+
++ console statements
+ - console.log()
+ - console.info()
+ - console.warn()
+ - console.error()
+
+ + Spread operators
+
+	- To change array elemnts from one array to another array
+  ---
+		---variablename
+  ---
+  - rest parameter 
+	- to handle function parameter.
+	...
+	
+	...parameter
+
+	...
+
+	+ Destruction of Array &objects
+
+	+ Functions
+
+	 -function with functionname
+	 ...
+	  function demo(x,y){
+		  return x+y
+	  }
+	  ----
+	  + Anonymous function
+	  ----
+	  let demo=function (x,y)
+	  {
+		  return x+y
+	  }
+	  ----
+	  - Arrow function
+	  ----
+	  let demo=(x,y)=>{
+		  return x*ys
+	  }
+ 
+
 
 ### reference links
  - [flaticon](https://www.flaticon.com/)
