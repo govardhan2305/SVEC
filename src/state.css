@@ -1,0 +1,18 @@
+
+.demo{ 
+    font-family: 'Courier New', Courier, monospace;
+    border: 2px solid gray;
+    margin: 10px 30px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: royalblue;
+    }
+    button{
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 700;
+        background-color: lightgoldenrodyellow;
+        
+    }
+    button:hover{
+        background-color: khaki;
+    }
