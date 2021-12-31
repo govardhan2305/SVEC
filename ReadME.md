@@ -271,8 +271,125 @@ Task3 :
 	  let demo=(x,y)=>{
 		  return x*ys
 	  }
- 
+ + for-in
+	- TO get index values of an array
++ for-of
+   - to get elements inan array
 
++ forEach() ----> (Es-5)
++ map() --->(ES-8)
+
+### DOM
+- Document object Model
+- document
+- history
+- window
+- navigator 
+
++ DOM methods
+	- getElementById()
+	- getElementByClassName()
+	- querySelector()
+	- innertext
+	- textContent
+	- append
+	- appendChild
+	- innerHTML
+	- setAttribute()
+	- ClassList
+	- style
+	- src
+
+### JSON
++ Javascript Object notation
+	- To exchange information between application and server
+
+...
+{
+	"name":"Govardhan",
+	"salary"
+}
+
+
++ Ajax call or promises (fetch API) or axios.
+
+
+### ReactJS
+
+
+### ReactJS features
+
++ it is a library
++ It folows component based architecture
+	- Function Component
+	- Class Component
+	- pure component
+	- High Order Component
+
++ It provides virtual DOM
++ It provides JSX (JvaScript and XML)
++ Unidirectional data flow
++ Single page applications
+
++ props
+	- to pass data from one component to another component we will use props
+	- Props are immutable
+
+	+ UnionBank (Functional)
+		- AndhraBank(Functional)
+		- CorporationBank (class)
+
++ States
+
+	- In react to maintain information we will use States
+	- We can maintain states in class component only (Before react16.8version)
+	- To take state in react try to create constructor above render method and inside of  Class component
+	- use 'rconst' snippet.
+	...
+
+	constructor(){
+		super();
+		this.state{
+
+		}
+	}
+	...
+
+	- To update the information inclass component use 'setState()' method.
+
+
+
++  Project Environmental Setup
+	- [DownloadVSC](https://code.visualstudio.com/Download)
+	- [DownloadNodejs](https://nodejs.org/en/)
+	- install nodejs and check versions of'node' and 'npm'
+		- 'node -v'
+		- 'npm -v'
+	- 'webpack' and 'babel'
+	- 'create-react-app'
+		- 'npm install create-react-app'
+			- 'create-react-app projectname'
+		- 'npx create-react-app appname'
+
++ Index.html
++ index.js
++ App.js
+	+ IndexPage
+		- nav.js
+		- body.js
+		- footer.js
+
+
+		+ Home.js
+			- nav
+			- body
+			- footer
+		+ Login.js
+		+ Register
+		+ About
+		+ contact
+
+		
 
 ### reference links
  - [flaticon](https://www.flaticon.com/)
